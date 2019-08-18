@@ -1,0 +1,107 @@
+html{
+    background-color: white;
+    font-family: serif;
+    text-align: center;
+  }
+  
+  body{
+    background-color: #eee;
+  }
+  
+  #main{
+   margin:25px auto;
+   padding:5px;
+   border:0px solid;
+   border-radius:5%;
+   background:#eee;
+  }
+  
+  header{
+     background-color: white;
+     max-width: 100%;
+     align-self: center;
+     line-height: .7;
+     padding-top: 6px;
+     padding-bottom: 6px;
+  }
+  
+  h1, h2{
+    text-align: center;
+    color:black;
+    font-family: Arial, sans-serif;
+  
+  }
+  
+  h1{
+    font-size: 2em;
+  
+  }
+  h2{
+    font-size: 1.5em;
+    font-style: italic;
+    font-weight: lighter;
+  
+  }
+  
+  #img-div{
+    background-color: white;
+  }
+  
+  #image{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
+  
+  #img-caption{
+    text-align: center;
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+    padding-bottom: 5px;
+  }
+  
+  #tribute-info{
+  
+  }
+  
+  #description{
+    font-size: 26px;
+    border: .1 solid gray;
+    border: 2px dashed white;
+    padding-left: 15px;
+  }
+  
+  #poems h3{
+    text-align: center;
+  }
+  
+  .poem{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
+  
+  .poem p{
+    margin-bottom:13px;
+    font-style: italic;
+  
+  }
+  
+  #tribute-link {
+    padding: 15px;
+    margin:5px;
+    font-size: 2em;
+    text-align: center;
+  }
+  
+  a{
+    text-decoration:none;
+    color: black;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
