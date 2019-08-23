@@ -105,8 +105,11 @@ a{
 }
 
 input{
-margin-left:10px;
 border-radius:10px;
+}
+
+input:first-of-type{
+  width:100px;
 }
 
 a:hover{
